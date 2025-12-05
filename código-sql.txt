@@ -1,7 +1,7 @@
-#Acessar SQL no CMD
+#Acessar SQL pelo CMD
 mysql -u root -p
 
-#Visualizar banco de dados
+#Mostrar banco de dados
 show database;
 
 #Criar banco de dados

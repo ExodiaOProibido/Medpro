@@ -1,42 +1,41 @@
------------Paciente-------------
-{
-  "nome": "João da Silva",
-  "email": "joao.silva@example.com",
-  "telefone": "(11) 91234-5678",
-  "cpf": "12345678900",
-  "endereco": {
-    "logradouro": "Rua das Flores",
-    "bairro": "Jardim Primavera",
-    "cep": "12345-678",
-    "cidade": "São Paulo",
-    "uf": "SP",
-    "numero": "123",
-    "complemento": "Apto 45B"
-  }
-}
-
------------Medico-------------
-{
-  "nome": "Caio Dal Negro",
-  "email": "caio@medpro.com",
-  "telefone": "11912345678",
-  "crm": "123456",
-  "especialidade": "GINICOLOGIA",
-  "endereco": {
-    "logradouro": "Rua das Flores",
-    "bairro": "Jardim Primavera",
-    "cep": "12345678",
-    "cidade": "São Paulo",
-    "uf": "SP",
-    "numero": "54",
-    "complemento": "Telesp"
-  }
-}
-
---------------------------------------
 Consultas:
 {
   "idPaciente": 1,
   "idMedico": 1,
   "dataHora": "2025-12-10T15:30:00"
+}
+
+-----------Medico-------------
+{
+  "nome": "Rafael Monteiro",
+  "email": "rafael.monteiro@cliniccare.com",
+  "telefone": "21999887766",
+  "crm": "458912",
+  "especialidade": "GINECOLOGIA",
+  "endereco": {
+    "logradouro": "Avenida Paulista",
+    "bairro": "Bela Vista",
+    "cep": "01311000",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "numero": "742",
+    "complemento": "Conjunto 1210"
+  }
+}
+
+-----------Paciente-------------
+{
+  "nome": "Carlos Henrique Moreira",
+  "email": "carlos.moreira@example.com",
+  "telefone": "(21) 99876-5432",
+  "cpf": "98765432100",
+  "endereco": {
+    "logradouro": "Avenida Central",
+    "bairro": "Vila Horizonte",
+    "cep": "87654-321",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ",
+    "numero": "850",
+    "complemento": "Casa 02"
+  }
 }
